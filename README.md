@@ -1,14 +1,29 @@
 # top-stories-client-side
 
-clone this project using git clone command 
 
+## Requirements
+
+* React
+* Git
+
+## Common setup
+
+Clone the repo and install the dependencies.
+
+```bash
 git clone https://github.com/mudassar080/top-stories-client-side.git
+```
 
-install dependecies using this command
+```bash
+npm install
+```
 
-npm install 
+## Run the project
 
-To start this projet use this command 
+The given below command will starts the poject
+
+```bash
 
 npm start
 
+```
