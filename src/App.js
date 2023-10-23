@@ -3,8 +3,6 @@ import axios from 'axios';
 import { Card, CardContent, CardMedia, Grid, Typography, Container } from '@mui/material';
 import './App.css';
 
-
-
 function App() {
 
   const [stories, setStories] = useState([]);
